@@ -1,4 +1,4 @@
-### Hi there 👋, Hallo, Ich Bin Dhananjay!
+### 👋, Hallo, Ich Bin Dhananjay!
 I am a Computer Simulation student with a passion for Full-stack development, Machine Learning, Data Science, and Image Processing. With a strong analytical background, I am eager to solve business problems with the best software solutions.
 
 <!-- Interactive Skills Logo -->
